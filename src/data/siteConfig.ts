@@ -20,8 +20,8 @@ export const SITE_CONFIG = {
    * Ganti `communityUrl` dengan tautan resmi WhatsApp Community REVIVE setelah tersedia,
    * dan ubah `isCommunityLinkConfigured` menjadi `true`.
    */
-  isCommunityLinkConfigured: false,
-  communityUrl: 'https://chat.whatsapp.com/REVIVE3-Community-Link',
+  isCommunityLinkConfigured: true,
+  communityUrl: 'https://whatsapp.com/channel/0029VbE27vXDDmFPCggFFg3T',
 
   contactEmail: 'shafiyahpreneur@gmail.com',
   contactPhoneDisplay: '+62 812-XXXX-XXXX (Admin REVIVE)',
